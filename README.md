@@ -66,6 +66,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Cloning software.*
 
 * [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
+* [DRBL](http://drbl.org/) - Diskless Remote Boot in Linux. Provides a pxeboot server capable of imaging out large numbers of computers based on clonezilla.
+* [iPXE](http://ipxe.org/) - Open Source Boot firmware project, great when used in combination with DRBL to get obscure network cards to PXE boot.
 * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
 * [Redo Backup](http://redobackup.org/) - Easy Backup, Recovery and Restore.
 
@@ -367,6 +369,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
+* [TRK](http://trinityhome.org) - CPR for your computer! A toolkit as a small livecd for general computer diagnostics.
 
 ## Project Management
 *Web-based project management and bug tracking systems.*
